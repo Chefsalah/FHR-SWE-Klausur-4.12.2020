@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6b640ef-329c-4070-9ec3-f46333e55b89": {
+      "ProjectGuid": "e6b640ef-329c-4070-9ec3-f46333e55b89",
+      "DisplayName": "FHR",
+      "ColorIndex": 0
+    },
+    "0cebec32-a367-42f0-aeeb-4cddd67068ff": {
+      "ProjectGuid": "0cebec32-a367-42f0-aeeb-4cddd67068ff",
+      "DisplayName": "FHR-Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

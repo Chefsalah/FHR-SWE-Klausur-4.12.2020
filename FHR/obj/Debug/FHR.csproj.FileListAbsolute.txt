@@ -1,0 +1,8 @@
+C:\Users\chefs\source\repos\FHR\FHR\bin\Debug\FHR.exe.config
+C:\Users\chefs\source\repos\FHR\FHR\bin\Debug\FHR.exe
+C:\Users\chefs\source\repos\FHR\FHR\bin\Debug\FHR.pdb
+C:\Users\chefs\source\repos\FHR\FHR\obj\Debug\FHR.csproj.AssemblyReference.cache
+C:\Users\chefs\source\repos\FHR\FHR\obj\Debug\FHR.csproj.SuggestedBindingRedirects.cache
+C:\Users\chefs\source\repos\FHR\FHR\obj\Debug\FHR.csproj.CoreCompileInputs.cache
+C:\Users\chefs\source\repos\FHR\FHR\obj\Debug\FHR.exe
+C:\Users\chefs\source\repos\FHR\FHR\obj\Debug\FHR.pdb
